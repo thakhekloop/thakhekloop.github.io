@@ -13,15 +13,17 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: thakhekloop@gmail.com
+  Una:
+    name: Una
+    display_name: Una
+    avatar: 'assets/images/una_square.jpg'
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    # email: thakhekloop@gmail.com
     # web: https://www.wowthemes.net
     # twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  andrew:
+    description: "Una is an avid adventurer, skiier, and plant mom. Heralding from Zagreb, Croatia, she works at the University Hospital in Zurich, Switzerland. 
+    She is currently busy trying to convince Andrew to learn how to paraglide."
+  Andrew:
     name: Andrew
     display_name: Andrew    
     avatar: 'assets/images/andrew_square.jpg'
@@ -29,7 +31,8 @@ authors:
     # email: wowthemesnet@gmail.com
     # web: https://www.wowthemes.net
     twitter: https://twitter.com/kofshinobi
-    description: "Andrew hikes, skis, dives, and travels, and funds all that by working at a tech company in Zurich, Switzerland."
+    description: "Andrew hikes, skis, dives, and travels, and funds all that by working at a tech company in Zurich, Switzerland. He's originally from the U.S. of A. 
+                  and is currently busy trying to convince his family to follow him to Switzerland."
 
 # Plugins
 plugins:
